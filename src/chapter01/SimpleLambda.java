@@ -20,7 +20,7 @@ public class SimpleLambda {
    }
 
    private static void reverseWithLambda(Integer[] numbers) {
-      Arrays.sort(numbers, (i1, i2) -> i2 - i1);
+      Arrays.sort(numbers, (Integer i1, Integer i2) -> i2 - i1);
    }
 
    @SuppressWarnings("Convert2Lambda")
