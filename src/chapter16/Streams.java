@@ -16,6 +16,7 @@ public class Streams {
     * Are intelligent
     * Can be operated in parallel
     * Can be unbounded
+    * Pipelines of operations, one-time-use
     */
    public static void main(String[] args) {
       // variadic args
