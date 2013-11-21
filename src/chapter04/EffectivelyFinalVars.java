@@ -20,7 +20,7 @@ public class EffectivelyFinalVars {
 
       // watch here, we accessed number2 and it's not final inside a lambda
       incrementEffectivelyFinalVar(x -> x + number2);
-
+      printer.print();
    }
 
    public static void incrementEffectivelyFinalVar(IntUnaryOperator operator) {
