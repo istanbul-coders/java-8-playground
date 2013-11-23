@@ -1,4 +1,6 @@
-# Java 8 Project Lambda / Java 8 Lambda Projesi
+# Java 8 Project Lambda / Lambda Projesi
+
+![Logo](https://2.gravatar.com/avatar/9a77696a06b4df22220f95d48c6d09f3?s=220)
 
 These are the files shown during the presentation of _Java 8 Project Lambda_ in **November 21, 2013**. You can use it the way you want. We'd be appreciated if you send us a pull-request when you find a bug.
 
