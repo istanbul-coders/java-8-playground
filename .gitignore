@@ -3,3 +3,9 @@ out
 .DS_Store
 .idea
 *.iml
+*.class
+
+# Package Files #
+*.jar
+*.war
+*.ear
